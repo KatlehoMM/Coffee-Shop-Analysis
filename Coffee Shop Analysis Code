@@ -2,7 +2,7 @@ SELECT * FROM COFFEE.SALES.SHOP_TRANSACTIONS;
 
 ---TOTAL REVENUE
 SELECT SUM(unit_price * transaction_qty) AS total_sales
-FROM COFFEE.SALES.SHOP_TRANSACTIONS:
+FROM COFFEE.SALES.SHOP_TRANSACTIONS;
 
 -----total revenue per day
 SELECT DATE(transaction_date) AS day_num,
