@@ -32,7 +32,7 @@ Revenue sales from highest to lowest
 * Capitilize on high-demand categories like coffee and tea by expanding offerings or improving marketings eforts
 ### Increase revenue during low performing periods
 * Implement strategies such as discounts or special promotions during evenings and on saturdays to attract more customers
-* Explore ways to drive nighttime sales, which contribute the least revenue (0,39%).
+* Explore ways to drive nighttime sales, which contribute the least revenue (0%).
 ## Tools Used 
 ### Coding Platforms 
 * Snowflake
