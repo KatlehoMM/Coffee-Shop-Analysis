@@ -44,6 +44,7 @@ Revenue sales from highest to lowest
 * Miro
 * Canva
 * Microsoft Powerpoint
+* Google Looker Studio
 
 
 
