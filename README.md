@@ -40,11 +40,11 @@ Revenue sales from highest to lowest
 * Google BigQuery
 ### Data Visualisation 
 * Microsoft Excel
+* Google Looker Studio 
 ### Presentation & Reporting
 * Miro
 * Canva
 * Microsoft Powerpoint
-* Google Looker Studio
 
 
 
